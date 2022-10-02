@@ -2,3 +2,11 @@ body{
     margin: 0;
     padding: 0;
 }
+
+section{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url(https://images.squarespace-cdn.com/content/v1/5b7b0e9789c172b48d7d5d8c/1539825272582-0F711MPFD3GC917CEYQR/rain-12.jpg?format=1500w);
+    background-size: cover;
+}
